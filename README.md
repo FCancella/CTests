@@ -1,4 +1,4 @@
-# CTestes
+# CTests
 ## PT-BR - 
 ### Projetos para por em pratica funcionalidades que aprendi durante meu estudo da linguagem C.
 **Obs:**
