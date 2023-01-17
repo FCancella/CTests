@@ -1,0 +1,10 @@
+Belo Horizonte:
+Sensor A, 9 leituras: 78 43 82 32 12
+37
+18 3 8
+Sensor B, 14 leituras: 20 22 50 51 50 25 10
+15 11 5 2 1 53 37
+Sensor C, 8 leituras: 5 2
+3 4
+5 3 9 12
+Sensor D, 12 leituras: 7 5 28 4 8 4 7 14 78 45 7 34
